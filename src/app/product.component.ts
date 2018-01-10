@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 @Component ({
    selector: 'my-app',
-   template: '<product-form></product-form>'
+   template: 'Products',
 })
-export class AppComponent { }
+export   class   Appproduct  {
+}
